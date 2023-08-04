@@ -1,0 +1,43 @@
+BÁO CÁO ĐẦU BUỔI DẠY
+- Tên Giáo Viên: Nguyễn Văn An
+- Tên Trợ Giảng: 
+- Tên Giám Sát: 
+- Phòng Máy: 
+- Tổng số máy: 
+- Tổng số máy bị lỗi: 
+- Số máy còn thiếu cho HS: 0
+- Tình trạng Netsupport: Tốt
+- Tình trạng Loa, Âm ly: Tốt
+- Tình trạng máy lạnh, máy quạt: Tốt
+- GV Quản Nhiệm có mặt tại lớp: 
+----
+BÁO CÁO CHUYÊN MÔN
+- Tên Giáo Viên: ÁO CÁO CHUYÊN MÔN
+- Tên Giáo Viên: Nguyễn Văn An
+- Lớp: 
+- Môn: IC3 GS5 KA
+- Tài liệu dạy: Tài liệu Tin Học Đại Dương
+- Nội dung dạy: Câu 5 - 10
+- Tỷ lệ kết quả Flash: GMT 1 ( 0%), GMT 2 ( 0 %)
+- Tỷ lệ kết quả điểm Gmetrix: GMT 1 (L1  0%,  L2  0%), GMT 2 (L1  0%,  L2  0%)
+- Số lần hoàn thành 100% tất cả các bài tổng hợp: 0
+------
+BÁO CÁO CUỐI BUỔI DẠY
+- Tên Giáo Viên: Nguyễn Văn An
+- Tên Trợ Giảng: 
+- Tên Giám Sát: Không
+- Phòng Máy: 
+- Tổng số máy: 
+- Số lượng HS: 
+- Tổng số máy bị lỗi: 
+- Số máy còn thiếu cho HS: Không
+- Tình trạng Netsupport: Ổn
+- Tình trạng Loa, Âm ly: Tốt
+- Tình trạng máy lạnh, máy quạt: Tốt
+- Đã tắt các thiết bị điện chưa: Rồi
+- Ghế ngồi của HS được sắp xếp gọn gàng chưa: Rồi
+- Việc tuân thủ nội quy của học sinh: Tốt
+- Số tiết dự kiến: 60
+- Số tiết đã dạy: 4
+- GV Quản Nhiệm có mặt tại lớp: Không có
+- Danh sách vi phạm: 1
