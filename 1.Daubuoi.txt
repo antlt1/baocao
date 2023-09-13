@@ -1,0 +1,12 @@
+BÁO CÁO ĐẦU BUỔI DẠY
+- Tên Giáo Viên: V.An
+- Tên Trợ Giảng: T.Đoàn
+- Tên Giám Sát: Không có
+- Phòng Máy: PM1
+- Tổng số máy: 46 + 1 gv
+- Tổng số máy bị lỗi: Không có
+- Số máy còn thiếu cho HS: 0
+- Tình trạng Netsupport: Ổn
+- Tình trạng Loa, Âm ly: Tốt
+- Tình trạng máy lạnh, máy quạt: Tốt
+- GV Quản Nhiệm có mặt tại lớp: Không có
